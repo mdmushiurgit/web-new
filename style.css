@@ -1,0 +1,29 @@
+section {
+  height: 500px;
+}
+body {
+  margin: 0%;
+  background-image: url(img/img-04.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.name-hilight {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 500px;
+}
+.link-tag {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 20px;
+  font-weight: 700;
+  color: white;
+  border-radius: 5px;
+}
