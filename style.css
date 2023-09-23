@@ -27,3 +27,28 @@ body {
   color: white;
   border-radius: 5px;
 }
+.singl-experiance {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 50%;
+  background-color: aliceblue;
+}
+.ecperiance {
+  background-image: url(img/img-04.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#full-stack {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, rgb(0, 255, 42), tomato);
+  border-image-slice: 1;
+}
+#full-stack-2 {
+  border-left: 7px solid;
+  border-image: linear-gradient(190deg, orange, rgb(138, 64, 64));
+  border-image-slice: 1;
+}
+footer {
+  text-align: center;
+  font-size: 10px;
+}
